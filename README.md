@@ -1,6 +1,12 @@
 # Treinamento de Modelos de Regressão Linear Simples
 
-<img src="https://geekblog.com.br/wp-content/uploads/2021/08/original-ad3e19ba4f36273db47203a3c46ee3d4-1.jpg"/>
+<div float="left">
+  <img src="https://www.tensorflow.org/images/tf_logo_transp.png" height="120" >
+  <img src="https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png" height="120">
+</div>
+<div float="right">
+
+</div>
 
 Este README fornece uma visão geral do código e das etapas envolvidas no treinamento de modelos de regressão linear simples usando a biblioteca TensorFlow em Python. O código inclui a criação de três modelos, treinamento, avaliação e a comparação de suas métricas de erro (Mean Absolute Error - MAE e Mean Squared Error - MSE). Além disso, um dos modelos é salvo em um formato chamado "SavedModel".
 
